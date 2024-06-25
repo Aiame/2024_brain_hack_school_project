@@ -1,6 +1,6 @@
 # Investigating the effect of alpha band on TRFs
 
-## Background
+# Background
 
 The alpha band (α-wave) is a type of brainwave with a frequency range of approximately 8 to 12 Hz, often associated with relaxation and closed-eye states. Temporal Response Functions (TRFs) are models used to analyze the brain's response to time-series stimuli, particularly in the context of speech processing. 
 
@@ -34,5 +34,5 @@ Alice dataset: https://github.com/Eelbrain/Alice/tree/main
 
 Bhattasali, S., Brennan, J., Luh, W. M., Franzluebbers, B., & Hale, J. (2020). The Alice Datasets: fMRI & EEG observations of natural language comprehension. In Proceedings of the Twelfth Language Resources and Evaluation Conference (pp. 120-125).
 
-## team member
+# team member
 Kuan-Yu Chen, Ruo-Chi Yao, Liang-Mei Lin, Ming-Feng Hsin
