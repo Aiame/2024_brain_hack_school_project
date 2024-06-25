@@ -19,7 +19,8 @@ The dataset processing by using mne-python
 subject 
 subject
 subject 38
-![output](https://github.com/Aiame/2024_brain_hack_school_project/assets/127302047/1746d269-7fec-4b13-ab4d-1a6ebcfe9f49 | width=100)
+<img src="https://github.com/Aiame/2024_brain_hack_school_project/results/output.png" width="100" height="100">
+
 ## Conclusion and acknowledgement
 
 ## Reference
