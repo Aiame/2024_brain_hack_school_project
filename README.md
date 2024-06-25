@@ -10,6 +10,7 @@ Given our interest in understanding whether α-waves influence TRFs during langu
 For the EEG recordings in the Alice Dataset, participants listened to the first chapter of "Alice’s Adventures in Wonderland." This chapter consists of 2,129 words arranged into 84 sentences, with an average sentence length of 25.8 words (SD = 24.2). The total duration of the audio is approximately 12.4 minutes.
 
 ###　Participants
+
 The study included 49 adult participants who were native English speakers, aged between 18 and 29, with 14 males in the group. All participants reported having normal hearing and no neurological disorders.
 
 ### Procedure
