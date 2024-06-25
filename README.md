@@ -12,7 +12,9 @@ The dataset processing by using mne-python
 
 ## Workflow
 -download data from the Alice repository and run estimate_trf script to get the processed data
+
 -use the raw data to do ICA, remove the reaction of alpha band and save as a new fif
+
 -run estimate_trf again to get the removed alpha data
 
 ![procedure](https://github.com/Aiame/2024_brain_hack_school_project/assets/127302047/02da82a1-8a8f-471f-b1e0-2bd33666e010)
