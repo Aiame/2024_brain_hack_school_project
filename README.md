@@ -6,6 +6,18 @@ The alpha band (α-wave) is a type of brainwave with a frequency range of approx
 Given our interest in understanding whether α-waves influence TRFs during language processing, our project aims to explore the impact of including or excluding α-waves on TRFs. Using an open dataset, we seek to determine how the presence or absence of α-waves affects the modeling and interpretation of neural responses in speech processing.
 
 # Data
+### Stimuli
+For the EEG recordings in the Alice Dataset, participants listened to the first chapter of "Alice’s Adventures in Wonderland." This chapter consists of 2,129 words arranged into 84 sentences, with an average sentence length of 25.8 words (SD = 24.2). The total duration of the audio is approximately 12.4 minutes.
+
+###　Participants
+The study included 49 adult participants who were native English speakers, aged between 18 and 29, with 14 males in the group. All participants reported having normal hearing and no neurological disorders.
+
+### Procedure
+Participants were equipped with 61 actively-amplified electrodes plus one ground electrode (actiCap, Brain Products GmbH), arranged according to the Easycap M10 layout for uniform scalp coverage. During the experiment, the audiobook was played at a volume set 45 dB above the participant’s hearing threshold. After the audio session, participants completed an eight-question multiple-choice quiz about the story. The experimental session took between 1 to 1.5 hours to complete.
+
+In our project, 3 EEG data sets were chosen randomly.
+This repository offer the analyzed TRF, you might want to download because running the analysis from scratch could be time consuming
+
 
 ## Tools
 The dataset processing by using mne-python
