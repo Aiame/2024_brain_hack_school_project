@@ -20,3 +20,4 @@ The dataset processing by using mne-python
 ## Conclusion and acknowledgement
 
 ## Reference
+Alice dataset: https://github.com/Eelbrain/Alice/tree/main
