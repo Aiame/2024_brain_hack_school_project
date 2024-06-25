@@ -16,6 +16,7 @@ Given our interest in understanding whether α-waves influence TRFs during langu
 The dataset processing by using mne-python
 
 ### Workflow
+![procedure](https://github.com/Aiame/2024_brain_hack_school_project/assets/127302047/02da82a1-8a8f-471f-b1e0-2bd33666e010)
 
 ### Results
 subject 13
