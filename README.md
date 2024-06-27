@@ -29,12 +29,12 @@ image: ""
 
 ## Project definition
 
-# Background
+### Background
 The alpha band (α-wave) is a type of brainwave with a frequency range of approximately 8 to 12 Hz, often associated with relaxation and closed-eye states. Temporal Response Functions (TRFs) are models used to analyze the brain's response to time-series stimuli, particularly in the context of speech processing. 
 
 Given our interest in understanding whether α-waves influence TRFs during language processing, our project aims to explore the impact of including or excluding α-waves on TRFs. Using an open dataset, we seek to determine how the presence or absence of α-waves affects the modeling and interpretation of neural responses in speech processing.
 
-# Data
+## Data
 ### Stimuli
 For the EEG recordings in the Alice Dataset, participants listened to the first chapter of "Alice’s Adventures in Wonderland." This chapter consists of 2,129 words arranged into 84 sentences, with an average sentence length of 25.8 words (SD = 24.2). The total duration of the audio is approximately 12.4 minutes.
 
@@ -49,10 +49,10 @@ In our project, 3 EEG data sets were chosen randomly.
 This repository offer the analyzed TRF, you might want to download because running the analysis from scratch could be time consuming
 
 
-## Tools
+### Tools
 The dataset processing by using mne-python
 
-## Workflow
+### Workflow
 -- download data from the Alice repository and run estimate_trf script to get the processed data
 
 -- use the raw data to do ICA, remove the reaction of alpha band and save as a new fif
@@ -72,10 +72,8 @@ subject 38
 ## Conclusion and acknowledgement
 In our study of three participants, removing the alpha band affected TRFs, with some features being suppressed and others enhanced. This simplification highlighted local signals, making brain activity clearer. However, it's unclear if these enhanced signals represent true brain activity or noise, requiring further analysis for validation.
 
-## Reference
+### Reference
 Alice dataset: https://github.com/Eelbrain/Alice/tree/main
 
 Bhattasali, S., Brennan, J., Luh, W. M., Franzluebbers, B., & Hale, J. (2020). The Alice Datasets: fMRI & EEG observations of natural language comprehension. In Proceedings of the Twelfth Language Resources and Evaluation Conference (pp. 120-125).
 
-# team member
-Kuan-Yu Chen, Ruo-Chi Yao, Liang-Mei Lin, Ming-Feng Hsin
